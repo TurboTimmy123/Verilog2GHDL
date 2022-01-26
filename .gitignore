@@ -1,0 +1,8 @@
+*.runs
+*.cache
+*.hw
+*.log
+*.jou
+*.xpr
+*.tcl
+Vivado/Verilog_sources/*.v
