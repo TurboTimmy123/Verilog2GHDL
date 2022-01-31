@@ -27,7 +27,7 @@ Utilizing a Verilog FFT generator and Veri2GHDL, this is a simple script that cr
 Example, create a FFT core:
 
 ```
-./fftgen-vhdl.sh 
+./fftgen-vhdl.sh -f 64
 ```
 
 ### Acknowledgment
