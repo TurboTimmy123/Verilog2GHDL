@@ -62,11 +62,11 @@ The following steps may be done automatically using the `Veri2GHDL.sh` script, w
 The file will be generated inside Vivado's working directory which is included in the output of the command, note this location and copy the new file into your GHDL source simulations directory.
 
 ___
-## Using Veri2Ghdl
+## Using Veri2Unisim
 
-The whole process above may be automated using the `Veri2Ghdl.sh` script, the BASH script will process all Verilog files in the `Verilog_sources` directory.
+The whole process above may be automated using `Veri2Unisim.sh` 
 
-The script has a couple customizable variables, which are explained further inside the file.
+Further documentation is available in `Vivado/`
 ___
 ## Running GHDL
 
